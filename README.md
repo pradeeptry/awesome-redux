@@ -596,7 +596,7 @@ ___
 
 ### [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
 * [electron-react-boilerplate (Electron + Redux + Hot Reload)](https://github.com/chentsulin/electron-react-boilerplate)
-
+* [unsplash-wallpapers - Unsplash cross-platform desktop application built with React and Redux](https://github.com/soroushchehresa/unsplash-wallpapers)
 ___
 
 ### [A-Frame - A web framework for building VR experiences](https://aframe.io)
